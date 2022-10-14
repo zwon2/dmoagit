@@ -1,2 +1,5 @@
-
-ls
+apple
+batch
+code
+dope
+element
